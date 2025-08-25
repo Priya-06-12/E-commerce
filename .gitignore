@@ -1,0 +1,10 @@
+# Backend config
+backend/config/config.env
+
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Build folders
+frontend/dist/
+backend/build/
